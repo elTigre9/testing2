@@ -1,0 +1,13 @@
+.para {
+    background-color: aquamarine;
+}
+
+.giantHeading {
+    font-size: 9.5rem;
+    color: darkseagreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.largePadding {
+    padding: 4.5rem;
+}
